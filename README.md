@@ -16,3 +16,15 @@ This is a full-stack web application for visualizing and analyzing data. It uses
 1. Clone the repository:
    ```bash
    git clone https://github.com/kartikd75/data-visualization-dashboard.git
+
+2. Navigate to project folder:
+   ```bash
+   cd data-visualization-dashboard
+   
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+4. Run the Flask app.
+   ```bash
+   python app.py
